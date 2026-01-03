@@ -1,0 +1,9 @@
+{
+  "user": "Alice",
+  "active": true,
+  "scores": [
+    85,
+    92,
+    78
+  ]
+}
